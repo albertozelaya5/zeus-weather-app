@@ -27,3 +27,11 @@ Nuestra aplicación se basa y toma inspiration de la antigua Grecia
 - dorado ⚡ => #ffd43b
 
 - morado 🌩️ => #9775fa
+
+---
+
+## Posibles ideas
+
+También busca vender ropa con temática griega con sugerencias, si hace muy seguido frio, calor, lluvia etc, proporcionar un conjunto que sea adecuado y util para esos climas, con esa estética griega
+
+Una organization sin fines de lucro que proporciona el clima y que tan probable es que ocurra un cataclismo para ayudar a prevenir posibles damnificados
