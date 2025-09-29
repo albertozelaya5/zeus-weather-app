@@ -14,6 +14,8 @@
 
 - target audience: Jóvenes de 20 a 30 años, con presupuesto de 10-100$, que buscan ropa util y cómoda
 
+(En caso sea ropa) => Que quieran varios conjuntos útiles dependiendo de la época en la que estén
+
 ## PLAN
 
 - Website personality: En base a lo conocido por la compañía, seria una combination de `Serious/Elegant`, `Minimalist/Simple` y `Calm/Peaceful`

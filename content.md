@@ -86,17 +86,3 @@ Luego de ver estos componentes, hacer un sketch en excalidraw o Figma, o a mano
 > [!IMPORTANT]
 > No tiene que ser toda la pagina, sino aproximadamente como la mitad
 > También se pueden probar con varios sketches para experimentar
-
-## The Zeus Weather App - Project planning
-
-- El sitio si bien será para mi, sera también para todas las personas que deseen ver el clima
-- El sitio es para proveer information detallada sobre el clima,
-
-### Objetivos empresa y usuario
-
-1. Conocer el clima para saber si alistarse para el o tomar medidas en caso llueva, tener information rápida pero también detallada.
-2. Proporcionar el clima para que las personas, lo mas accesible posible
-
-La target audience jóvenes de 19 a 30 años, que tengan prisa y quieran algo sencillo y rápido
-
-(En caso sea ropa) => Que quieran varios conjuntos útiles dependiendo de la época en la que estén
